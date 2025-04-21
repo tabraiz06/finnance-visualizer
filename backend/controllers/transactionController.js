@@ -1,4 +1,3 @@
-// server/controllers/transactionController.js
 const Transaction = require("../models/Transaction.js");
 
  const getTransactions = async (req, res) => {
