@@ -1,4 +1,3 @@
-// server/routes/transactions.js
 const express = require("express");
 const {
   getTransactions,
